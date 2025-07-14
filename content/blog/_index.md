@@ -1,5 +1,6 @@
 +++
 title = "Blog"
+menu = "main"
 date = "2025-07-14T11:52:01+09:00"
 
 #
