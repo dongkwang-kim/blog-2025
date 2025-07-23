@@ -6,7 +6,12 @@ description = 'Collection of advice for PhD students'
 weight = 1
 +++
 
-I collect helpful advice for PhD students here. Although there are already many nice github repositories that do something similar, I want to make it more personalized with annotation. I will absorb and internalize the principles from the collection of advice and hope this could help you as well.
+I've gathered a collection of valuable advice for PhD students here. While many excellent GitHub repositories offer simliar compilations, my aim is to provide a more personalized perspective with annotations. This is my own interpretation of advice -- I wish to absorb and internalize the core principles from the collection of advice and hope this could help you as well.
 
-### Principles for a PhD Program (By Prof. Seong Joon Oh) [[Link](https://github.com/coallaoh/Principles)]
-* The repo includes [a well-written guideline for PhD students](https://github.com/coallaoh/Principles/tree/main/principles/phd). Since it is composed by a (rather young) professor, it reflects his viewpoints as an academic advisor at early stage, while being appropriate for the PhD students in **this** era as he also had gone through the PhD program recently. I used the guideline to setup my own PhD milestones.
+All credit is due to the original authors. Please note that I cannot guarantee the immutability of external content linked from this page. I have not sought explicit permission from the authors but have diligently cited their names and original sources.
+
+I sincerely appreciate the authors for generously sharing their insights.
+
+### Principles for Research and PhD Program (By [Prof. Seong Joon Oh](https://coallaoh.github.io/)) [[Link](https://github.com/coallaoh/Principles)]
+* The repository features [a well-structured guideline for PhD students](https://github.com/coallaoh/Principles/tree/main/principles/phd). As it is authored by a (relatively young) professor, it offers a contemporary advice from an academic advisor who has recently navigated the PhD program themselves. This makes it particularly relevant for PhD students in **this era**, and I've personally leveraged this guideline to establish my own PhD milestones.
+* I was also drawn to the research strategy outlined [here](https://github.com/coallaoh/Principles/tree/main/principles/research). It proposes to start with an easy problem setup and find a simple solution. Then, by relaxing an assumption or restricting resources, challenges are introduced. Finding a solution under this circumstance enables a smooth transition into a more difficult problem setup. The key is to **always stay close to perfect performance**. 
